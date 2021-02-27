@@ -1,5 +1,5 @@
 {
-  "python.pythonPath": "envcom/bin/python",
+  "python.pythonPath": "Env/bin/python3.8",
   "editor.formatOnSave": true,
   "python.linting.pycodestyleEnabled": true,
   "python.linting.pylintEnabled": true,
